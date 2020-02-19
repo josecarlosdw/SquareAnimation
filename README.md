@@ -1,2 +1,0 @@
-# SquareAnimation
-Created with CodeSandbox
